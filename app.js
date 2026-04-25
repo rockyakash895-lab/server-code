@@ -44,7 +44,7 @@ app.post("/send-otp", async (req, res) => {
 <div style="background:#000; padding:20px; text-align:center; font-family:Arial;">
 
   <!-- 🔥 FULL IMAGE -->
-  <img src="https://i.supaimg.com/c48fc7db-43fb-43f8-b6da-ffe4295b161b/b159458a-9d40-41b7-88d8-24017415b493.png"
+  <img src="https://i.supaimg.com/c48fc7db-43fb-43f8-b6da-ffe4295b161b/b4aef1cb-8441-4b72-bfb1-893ac7cb2f61.jpg"
        style="width:100%; max-width:420px; border-radius:12px; box-shadow:0 0 20px rgba(255,0,0,0.4);" />
 
   <!-- TEXT -->
